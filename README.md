@@ -1,5 +1,6 @@
 # Projets lié à IESEG de Michel FLIGNY
 
+### Formation git
 
 
 ## Ceci est mon premier fichier readme
