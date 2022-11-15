@@ -1,4 +1,4 @@
-# ieseg-repo
+# Projets lié à IESEG de Michel FLIGNY
 
 
 
