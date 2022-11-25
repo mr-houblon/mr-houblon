@@ -2,14 +2,8 @@
 
 ### Formation git
 
-
-:
-- 1
-- 
-#### Coucou 
 ---
-
-<html></html>
+<html> </html>
 ---
 
 [coucou](https://google.com)
