@@ -1,20 +1,32 @@
+/* Colors and font */
+
 body {
-background-color: blanchedalmond;
-color: black;
-font-family: Arial, Helvetica, sans-serif;
-font-size: 30px;
-line-height: 1.6;
-letter-spacing: 3px;
-font-weight: 100;
+    background-color: blanchedalmond;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: normal;
+    letter-spacing: 1px;
+    font-size: 17px;
+    }
+
+h1, h2, h3{
+    color: green;
+    font-family:"Helvetica Neue";
+    font-weight: bold;
+    letter-spacing: 1px;
 }
 
 h1 {
-font-size: larger;
-font-family:"Helvetica Neue";
+    font-size: 36px;
 }
 
 h2 {
-color: red;
-font-size: 24px ;
+    font-size: 30px;
 }
-
+a {
+    color: black;
+    text-decoration: none;
+}
+a:hover {
+    color: gray;
+}
