@@ -1,0 +1,20 @@
+body {
+background-color: blanchedalmond;
+color: black;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 30px;
+line-height: 1.6;
+letter-spacing: 3px;
+font-weight: 100;
+}
+
+h1 {
+font-size: larger;
+font-family:"Helvetica Neue";
+}
+
+h2 {
+color: red;
+font-size: 24px ;
+}
+
