@@ -83,12 +83,12 @@ a:hover {
 
 #hobbies {
     list-style: none;
-    padding-left: 90px;
+    padding-left: 0px;
 }
 
 .list-inline {
     list-style: none;
-    padding-left: 90px;
+    padding-left: 0px;
 }
 
 .list-inline li {
@@ -119,8 +119,8 @@ a:hover {
 }
 
 .slides {
-    width: calc(500px * 3);
-    animation: glisse 10s infinite;
+    width: calc(500px * 11);
+    animation: glisse 30s infinite;
 }
 
 .slide {
@@ -132,27 +132,87 @@ a:hover {
         transform: translateX(0);
     }
 
-    10% {
+    4.33% {
         transform: translateX(0);
     }
 
-    33% {
+    8.66% {
         transform: translateX(-500px);
     }
 
-    43% {
+    12.99% {
         transform: translateX(-500px);
     }
 
-    66% {
+    16.33% {
         transform: translateX(-1000px);
     }
 
-    76% {
+    20.66% {
         transform: translateX(-1000px);
     }
 
-    100% {
-        transform: translateX(0);
+    24.99% {
+        transform: translateX(-1500px);
+    }
+
+    29.33% {
+        transform: translateX(-1500px);
+    }
+
+    33.66% {
+        transform: translateX(-2000px);
+    }
+
+    37.99% {
+        transform: translateX(-2000px);
+    }
+
+    42.33% {
+        transform: translateX(-2500px);
+    }
+
+    46.66% {
+        transform: translateX(-2500px);
+    }
+
+    50.99% {
+        transform: translateX(-3000px);
+    }
+
+    55.33% {
+        transform: translateX(-3000px);
+    }
+
+    59.66% {
+        transform: translateX(-3500px);
+    }
+
+    64.99% {
+        transform: translateX(-3500px);
+    }
+
+    69.33% {
+        transform: translateX(-4000px);
+    }
+
+    74.66% {
+        transform: translateX(-4000px);
+    }
+
+    78.99% {
+        transform: translateX(-4500px);
+    }
+
+    83.33% {
+        transform: translateX(-4500px);
+    }
+
+    87.66% {
+        transform: translateX(-5000px);
+    }
+
+    99.99% {
+        transform: translateX(-5000px);
     }
 }
