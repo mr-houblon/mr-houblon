@@ -113,7 +113,7 @@ a:hover {
 
 .slider {
     width: 500px;
-    height: 300px;
+    height: 200px;
     overflow: hidden;
     margin: 150px auto;
 }
@@ -124,95 +124,29 @@ a:hover {
 }
 
 .slide {
-    float: left;
+    float: unset;
 }
 
-@keyframes glisse {
-    0% {
-        transform: translateX(0);
-    }
+.carousel-indicators {
+    bottom: -10px;
+}
 
-    4.33% {
-        transform: translateX(0);
-    }
+.carousel-control-next {
+    color: black;
+    opacity: 1;
+}
 
-    8.66% {
-        transform: translateX(-500px);
-    }
+.carousel-control-next:hover {
+    color: black;
+    opacity: 1;
+}
 
-    12.99% {
-        transform: translateX(-500px);
-    }
+.carousel-control-prev {
+    color: black;
+    opacity: 1;
+}
 
-    16.33% {
-        transform: translateX(-1000px);
-    }
-
-    20.66% {
-        transform: translateX(-1000px);
-    }
-
-    24.99% {
-        transform: translateX(-1500px);
-    }
-
-    29.33% {
-        transform: translateX(-1500px);
-    }
-
-    33.66% {
-        transform: translateX(-2000px);
-    }
-
-    37.99% {
-        transform: translateX(-2000px);
-    }
-
-    42.33% {
-        transform: translateX(-2500px);
-    }
-
-    46.66% {
-        transform: translateX(-2500px);
-    }
-
-    50.99% {
-        transform: translateX(-3000px);
-    }
-
-    55.33% {
-        transform: translateX(-3000px);
-    }
-
-    59.66% {
-        transform: translateX(-3500px);
-    }
-
-    64.99% {
-        transform: translateX(-3500px);
-    }
-
-    69.33% {
-        transform: translateX(-4000px);
-    }
-
-    74.66% {
-        transform: translateX(-4000px);
-    }
-
-    78.99% {
-        transform: translateX(-4500px);
-    }
-
-    83.33% {
-        transform: translateX(-4500px);
-    }
-
-    87.66% {
-        transform: translateX(-5000px);
-    }
-
-    99.99% {
-        transform: translateX(-5000px);
-    }
+.carousel-control-prev:hover {
+    color: black;
+    opacity: 1;
 }
