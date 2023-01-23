@@ -1,9 +1,3 @@
-# Projets lié à IESEG de Michel FLIGNY
+# Ceci est mon profile Github.
 
-### Formation git
-
----
-<html> </html>
----
-
-[coucou](https://google.com)
+Découvrez mon portfolio en ligne ainsi que mes autres projets relatifs à l'Ieseg
