@@ -1,5 +1,3 @@
-/* Colors and font */
-
 body {
     background-color: rgb(236, 231, 222);
     color: black;
@@ -28,6 +26,7 @@ h2 {
 
 p {
     text-align: center;
+    font-size: 18px;
 }
 
 a {
@@ -39,8 +38,6 @@ a:hover {
     color: gray;
     text-decoration: underline;
 }
-
-/* Custom design for my classes */
 
 .container {
     width: 1000px;
